@@ -1,0 +1,11 @@
+main {
+    text-align: center;
+}
+
+body {
+    background-color: grey;
+}
+
+.calculator_value {
+    font-size: 100px;
+}
